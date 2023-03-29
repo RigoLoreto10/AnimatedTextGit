@@ -3,17 +3,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-<<<<<<< HEAD
-    background-color: rgb(218, 196, 233);
-}
-h1{
-    font-size: 33rem;
-=======
-    background-color: rgb(12, 198, 255);
+    background-color: rgb(11, 59, 73);
 }
 h1{
     font-size: 25rem;
->>>>>>> teal-bg
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .letter{
